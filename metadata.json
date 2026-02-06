@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Internship Diary Generator",
+  "description": "An AI-powered tool designed for VTU students to effortlessly generate and manage professional daily internship diary entries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
